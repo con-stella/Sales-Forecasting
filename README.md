@@ -45,9 +45,15 @@
 
 <br>
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis.pdf" download="SalesForecasting_slides">
-    <img src="https://img.shields.io/badge/📄%20PDF%20다운로드-Sales%20Forecasting-0078D4?style=for-the-badge">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis.pdf" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/PDF%20다운로드-gray?style=for-the-badge" alt="download Button">
+  </a>
+  <a href="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis.pdf" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Sales%20Forecasting-FF0000?style=for-the-badge&logo=file&logoColor=white" alt="pdf Button">
+  </a>
+  <a href="https://raw.githubusercontent.com/con-stella/Sales-Forecasting/main/Slides/SalesForecasting__LGBM_SeasonalityAnalysis.pdf" target="_blank" style="text-decoration:none; display: flex; align-items: center; gap: 8px; padding: 10px 20px; background-color: #0078D4; color: white; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; border-radius: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF Icon" width="30" height="30">
   </a>
 </div>
 
