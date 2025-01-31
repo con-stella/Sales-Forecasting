@@ -2,7 +2,7 @@
 ### Python Project
   **/ TimeSeries / LGBM /**
 
----
+--- 
 
 ## [시계열 분석을 통한 매장 매출 예측]
 - **성과**
